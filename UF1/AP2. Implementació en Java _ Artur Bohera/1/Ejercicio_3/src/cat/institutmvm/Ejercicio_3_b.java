@@ -14,7 +14,6 @@ public class Ejercicio_3_b {
     private static final String MSG_1 = "Introduce un número: ";
     private static final String MSG_2 = "El número es más grande que 35.";
 
-    
     public static void main(String[] args) {
         int num;
         Scanner userNum = new Scanner(System.in);
